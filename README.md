@@ -1,3 +1,3 @@
 ﻿# firstGameCpp
-
-Create a simple pong game.
+ 
+A simple pong game.
