@@ -1,3 +1,3 @@
 ﻿# firstGameCpp
  
-A simple pong game.
+A simple pong game written in C++ and using window libraries. 
